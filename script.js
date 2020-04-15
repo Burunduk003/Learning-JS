@@ -37,3 +37,5 @@ console.log(arr [0]);
 let answer = prompt('ты дебил?', 'да');
 
 console.log(typeof(arr));
+
+let day = 'shet'
